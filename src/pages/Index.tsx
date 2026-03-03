@@ -98,9 +98,6 @@ const Index = () => {
       >
         <div className="h-full flex items-end section-padding pb-16 md:pb-24">
           <div ref={heroTextRef} className="max-w-3xl">
-            <p className="hero-line type-caption text-ivory/70 mb-4">
-              Indian Architectural Interiors
-            </p>
             <h1 className="type-display text-ivory leading-none mb-6">
               <span className="hero-line block">Form</span>
               <span className="hero-line block italic font-light" style={{ fontStyle: "italic" }}>
